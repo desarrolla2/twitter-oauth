@@ -1,6 +1,6 @@
 {
     "name": "desarrolla2/twitter-oauth",
-    "description": "not ready yet",
+    "description": "Twitter Oauth: not ready yet, this is a development version",
     "keywords": ["twitter", "oauth"],
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,8 @@
     },
     "require": 
     {
-        "php": ">=5.3.0"
+        "php": ">=5.3.0",
+        "guzzle/guzzle":  "dev-master"
     },
     "autoload": 
     {
